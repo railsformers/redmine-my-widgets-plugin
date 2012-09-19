@@ -1,5 +1,10 @@
 cs:
-    label_recent_status_changes: Nedávno změněné stavy (během 24 hodin)
-    label_issue_status_old: Starý stav
-    label_assigned_issues_cloud: Souhrn přiřazených úkolů
-    label_project_issues_cloud: Souhrn projektových úkolů
+  label_recent_status_changes: Nedávno změněné stavy (během 24 hodin)
+  label_issue_status_old: Starý stav
+  label_assigned_issues_cloud: Souhrn přiřazených úkolů
+  label_project_issues_cloud: Souhrn projektových úkolů
+  assigned_issues_cloud: Souhrn přiřazených úkolů
+  custom_queries: Uživatelské dotazy
+  open_versions: Otevřené verze
+  project_issues_cloud: Souhrn projektových úkolů
+  recent_status_changes: Nedávno změněné stavy
